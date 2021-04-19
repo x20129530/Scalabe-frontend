@@ -1,7 +1,5 @@
 import React from 'react';
 import './App.css';
-import Nav from "./admin/components/Nav";
-import Menu from "./admin/components/Menu";
 import Products from "./admin/Products";
 import Main from "./main/Main";
 import{BrowserRouter, Route} from "react-router-dom";
